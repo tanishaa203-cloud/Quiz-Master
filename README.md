@@ -1,6 +1,6 @@
 # Quiz Master
 
-A desktop quiz app made with Python for CSE 466 (Python-Based Project Development).
+A desktop quiz app made with Python for  (Python-Based Project Development).
 
 ## Features
 - 4 categories: Science, Geography, General Knowledge, Computer & Python
